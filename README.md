@@ -1,6 +1,6 @@
 # Neps-in
 
-Hey, Welcome to my code. Feel free to move around.
+Hey, Welcome to my codebase. Feel free to move around.
 
 You should certainly checkout 
 
