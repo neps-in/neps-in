@@ -23,14 +23,6 @@ Hey, Welcome to my codebase. Feel free to move around.
 
 ---
 
-## 📊 Git Stats & Activity
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neps-in&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neps-in&layout=compact&theme=vision-glow&langs_count=6" />
-</p>
-
----
 
 ## 🤝 Connect with Me
 - **LinkedIn:** [https://linkedin.com/in/meetneps]
@@ -47,10 +39,11 @@ Hey, Welcome to my codebase. Feel free to move around.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Building+things+that+save+people+time;Django+%2B+DRF+%2B+Clean+Architecture;Turning+complex+problems+into+simple+code;Open+source+contributor+%26+lifelong+learner)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=neps-in&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/neps-in)
-[![GitHub followers](https://img.shields.io/github/followers/neps-in?style=flat-square&color=blue&label=Followers)](https://github.com/neps-in?tab=followers)
-[![Stars](https://img.shields.io/github/stars/neps-in?style=flat-square&color=yellow&label=Total+Stars)](https://github.com/neps-in)
-[![Twitter](https://img.shields.io/badge/@indianwebdevil-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/indianwebdevil)
-[![Website](https://img.shields.io/badge/neps.in-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](http://neps.in)
+[![Website](https://img.shields.io/badge/Portfolio-neps.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://neps.in)
+[![Twitter](https://img.shields.io/badge/Twitter-@indianwebdevil-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/indianwebdevil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetneps-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meetneps)
+[![Gmail](https://img.shields.io/badge/Email-write2aruld@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:write2aruld@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-neps--in-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neps-in)
 
 </div>
 
