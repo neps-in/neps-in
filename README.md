@@ -18,21 +18,6 @@ Hey, Welcome to my codebase. Feel free to move around.
 | **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
 
----
-
-## 🌟 Featured Projects
-
-You should certainly checkout 
-
-### 1. [🧹 safe-cleanup-toolkit](https://github.com/neps-in/safe-cleanup-toolkit)
-Interactive storage cleanup scripts for macOS and Linux. Each script shows the size of junk/cache locations and asks before deleting — nothing is removed without your confirmation.
-
-### 2. [Awesome-Tech collection](https://github.com/neps-in/awesome-tech)
-This repository contains quite useful resources on the following topics. Its in constant update, feel free to Star or Watch this repository, so that you get update notification as and when we update.
-
-### 3. [Nostalgia](https://github.com/neps-in/nostalgia)
-This is a collection of my code that i have done during my schooling, graduation and masters.
-
 
 ![](https://komarev.com/ghpvc/?username=neps-in)
 
