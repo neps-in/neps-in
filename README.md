@@ -197,8 +197,9 @@ Vintage code from graduation days — proof that everyone starts somewhere. VBA,
 
 [![Website](https://img.shields.io/badge/Portfolio-neps.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://neps.in)
 [![Twitter](https://img.shields.io/badge/Twitter-@indianwebdevil-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/indianwebdevil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meetneps-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meetneps)
+[![Gmail](https://img.shields.io/badge/Email-write2aruld@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:write2aruld@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-neps--in-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neps-in)
-[![Linkedin](https://img.shields.io/badge/GitHub-neps--in-181717?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 *Open to freelance Django projects, Corporate Training & Mentoring for large and Small Teams and technical collaborations, and interesting problems worth solving.*
 
