@@ -4,8 +4,6 @@
  
 ### 🔧  Chief Problem Solver at PutForShare.com with Craftsman mindset · Automation Enthusiast aka Software Mechanic and a proud son of a Mechanic.
 
-### *Python / Django Problem Solver · *
-
 *Weving the clean web without harming machines from all the sides and in all the dimensions for more than two decades.*
 
 Hey, Welcome to my codebase. Feel free to move around.
