@@ -1,27 +1,13 @@
-# Neps-in
+# Hi, I'm Napoleon Arouldas 👋 
 
-Hey, Welcome to my codebase. Feel free to move around.
+### 🔧  Chief Problem Solver at PutForShare.com aka Software Mechanic and a proud son of a Mechanic.
 
-You should certainly checkout 
-
-1. [Awesome-Tech collection](https://github.com/neps-in/awesome-tech) 
-2. [Nostalgia](https://github.com/neps-in/nostalgia)
-3. [🧹 safe-cleanup-toolkit](https://github.com/neps-in/safe-cleanup-toolkit)
-
-![](https://komarev.com/ghpvc/?username=neps-in)
-
----
-# Hi, I'm Neps 👋 
-
-### 🔧 Python / Django Problem Solver
-*Architecting clean backends and automating the mundane.*
-
----
+*Weving the clean web without harming machines from all the sides and in all the dimensions for more than two decades.*
 
 ## 🚀 The Mission
-I specialize in untangling complex backend problems using **Python** and **Django**. Whether it's optimizing database queries, building robust APIs, or creating automation scripts that save hours of manual labor, I focus on code that is **readable, scalable, and efficient.**
+I specialize in untangling complex backend problems using **Programming languages** like **PHP**, **Python** and **Django**. Whether it's optimizing database queries, building robust APIs, or creating automation scripts that save hours of manual labor, I focus on code that is **readable, scalable, and efficient.**
 
----
+Hey, Welcome to my codebase. Feel free to move around.
 
 ## 🛠 Tech Stack & Tools
 
@@ -30,20 +16,25 @@ I specialize in untangling complex backend problems using **Python** and **Djang
 | **Backend Mastery** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white) ![RestAPI](https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white) |
 | **Data Engineering** | ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-60A830?style=flat&logo=python&logoColor=white) |
 | **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Frontend Lite** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Project 1: The Automation Engine]
-*A deep dive into Python-based automation that streamlines [Specific Task]. Focused on error handling and modularity.*
+You should certainly checkout 
 
-### [Project 2: Django Backend Architecture]
-*A robust Django implementation featuring custom middleware, optimized ORM queries, and a clean RESTful interface.*
+### 1. [🧹 safe-cleanup-toolkit](https://github.com/neps-in/safe-cleanup-toolkit)
+Interactive storage cleanup scripts for macOS and Linux. Each script shows the size of junk/cache locations and asks before deleting — nothing is removed without your confirmation.
 
-### [Project 3: Data Extraction Pipelines]
-*Scalable web scraping and data cleaning scripts designed to transform unstructured web data into actionable insights.*
+### 2. [Awesome-Tech collection](https://github.com/neps-in/awesome-tech)
+This repository contains quite useful resources on the following topics. Its in constant update, feel free to Star or Watch this repository, so that you get update notification as and when we update.
+
+### 3. [Nostalgia](https://github.com/neps-in/nostalgia)
+This is a collection of my code that i have done during my schooling, graduation and masters.
+
+
+![](https://komarev.com/ghpvc/?username=neps-in)
 
 ---
 
@@ -57,7 +48,6 @@ I specialize in untangling complex backend problems using **Python** and **Djang
 ---
 
 ## 🤝 Connect with Me
-- **Portfolio:** [Your Website Link]
 - **LinkedIn:** [https://linkedin.com/in/meetneps]
 - **Email:** `write2aruld@gmail.com`
 
