@@ -1,40 +1,17 @@
-# Hi, I'm Napoleon Arouldas 👋 
+<div align="center">
 
-### 🔧  Chief Problem Solver at PutForShare.com aka Software Mechanic and a proud son of a Mechanic.
+#  Napoleon Arouldas &nbsp;·&nbsp; `neps-in`  👋 
+ 
+### 🔧  Chief Problem Solver at PutForShare.com with Craftsman mindset · Automation Enthusiast aka Software Mechanic and a proud son of a Mechanic.
+
+### *Python / Django Problem Solver · *
 
 *Weving the clean web without harming machines from all the sides and in all the dimensions for more than two decades.*
 
-## 🚀 The Mission
-I specialize in untangling complex backend problems using **Programming languages** like **PHP**, **Python** and **Django**. Whether it's optimizing database queries, building robust APIs, or creating automation scripts that save hours of manual labor, I focus on code that is **readable, scalable, and efficient.**
-
 Hey, Welcome to my codebase. Feel free to move around.
 
-## 🛠 Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend Mastery** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white) ![RestAPI](https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white) |
-| **Data Engineering** | ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-60A830?style=flat&logo=python&logoColor=white) |
-| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
-
-
-![](https://komarev.com/ghpvc/?username=neps-in)
-
----
-
-
-## 🤝 Connect with Me
-- **LinkedIn:** [https://linkedin.com/in/meetneps]
-- **Email:** `write2aruld@gmail.com`
-
-
----
-<div align="center">
-
-# 🐍 Napoleon Arouldas &nbsp;·&nbsp; `neps-in`
-
-### *Python / Django Problem Solver · Full-Stack Craftsman · Automation Enthusiast*
+## 🚀 The Mission
+I specialize in untangling complex backend problems using **Programming languages** like **PHP**, **Python** and **Django**. Whether it's optimizing database queries, building robust APIs, or creating automation scripts that save hours of manual labor, I focus on code that is **readable, scalable, and efficient.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Building+things+that+save+people+time;Django+%2B+DRF+%2B+Clean+Architecture;Turning+complex+problems+into+simple+code;Open+source+contributor+%26+lifelong+learner)](https://git.io/typing-svg)
 
@@ -173,7 +150,6 @@ Vintage code from graduation days — proof that everyone starts somewhere. VBA,
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=neps-in&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -210,7 +186,5 @@ Vintage code from graduation days — proof that everyone starts somewhere. VBA,
 <div align="center">
 
 "If the code is hard to explain, it's a bad idea. If the code is easy to explain, it may be a good idea." — The Zen of Python
-
-![snake animation](https://raw.githubusercontent.com/neps-in/neps-in/output/github-contribution-grid-snake.svg)
 
 </div>
