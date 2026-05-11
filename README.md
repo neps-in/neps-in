@@ -42,7 +42,7 @@ I'm **Napoleon** — a versatile Python/Django developer who thrives at the inte
 <table>
 <tr>
 <td width="50%" valign="top">
-### 🧹 [model-switcher-agent](https://github.com/neps-in/model-switcher-agent)
+###  🧹 [model-switcher-agent](https://github.com/neps-in/model-switcher-agent)
 > *Use the cheapest capable model for every task while maintaining acceptable output quality.*
 
 An intelligent AI model orchestration system that dynamically switches between OpenAI/Codex models in codex or Anthropic models in Claude code based on task complexity, reasoning depth, latency requirements, and token budget.
