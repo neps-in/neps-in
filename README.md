@@ -45,7 +45,7 @@ I'm **Napoleon** — a versatile Python/Django developer who thrives at the inte
 ### 🧹 [model-switcher-agent](https://github.com/neps-in/model-switcher-agent)
 > *Use the cheapest capable model for every task while maintaining acceptable output quality.*
 
-An intelligent AI model orchestration system that dynamically switches between OpenAI/Codex models or Anthropic models in Claude code based on task complexity, reasoning depth, latency requirements, and token budget.
+An intelligent AI model orchestration system that dynamically switches between OpenAI/Codex models in codex or Anthropic models in Claude code based on task complexity, reasoning depth, latency requirements, and token budget.
 
 `AI Cost Optimization` · `Anthropic` · `Claude API` · `Claude Code` · `Developer Productivity` · `LLM Engineering`
 
