@@ -63,28 +63,6 @@ A toolkit that makes system cleanup safe, auditable, and repeatable. Because `rm
 </td>
 
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗂️ [awesome-snippies](https://github.com/neps-in/awesome-snippies)
-> *Your cheat code to writing better Python, faster.*
-
-A battle-tested collection of reusable Python snippets covering everything from file handling to API calls. Stop Googling the same patterns — it's all here.
-
-`Python` · `Snippets` · `Productivity`
-
-</td>
-<td width="50%" valign="top">
-
-### 🕰️ [nostalgia](https://github.com/neps-in/nostalgia)
-> *A time capsule of code from school to masters.*
-
-Vintage code from graduation days — proof that everyone starts somewhere. VBA, early algorithms, and the beautiful mess of learning. A rare transparent look at a developer's origin story.
-
-`VBA` · `History` · `Learning`
-
-</td>
-</tr>
 </table>
 
 ---
