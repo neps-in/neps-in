@@ -41,6 +41,16 @@ I'm **Napoleon** — a versatile Python/Django developer who thrives at the inte
 
 <table>
 <tr>
+ <td width="100%" valign="top">
+  ### 🧹 [model-switcher-agent](https://github.com/neps-in/model-switcher-agent)
+> *Route every Claude Code task to the minimum-cost model — identical output, up to 80% lower cost.*
+
+A Claude Code agent spec that classifies each task and auto-selects Haiku, Sonnet, or Opus before the first API call. Real-time token reporting after every step. Smart auto-escalation when a cheaper model hits its limit. Every session logged to `token-utilisation.log` for cumulative savings tracking.
+
+`Claude Code` · `Anthropic` · `AI Cost Optimisation` · `AGENT.md`
+ </td>
+</tr> 
+<tr>
 <td width="50%" valign="top">
 ### 🧹 [model-switcher-agent](https://github.com/neps-in/model-switcher-agent)
 > *Route every Claude Code task to the minimum-cost model — identical output, up to 80% lower cost.*
