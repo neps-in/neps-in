@@ -42,7 +42,7 @@ I'm **Napoleon** — a versatile Python/Django developer who thrives at the inte
 <table>
 <tr>
  <td width="50%" valign="top">
- ###  🧹 [model-switcher-agent](https://github.com/neps-in/model-switcher-agent)
+### 🧹 [model-switcher-agent](https://github.com/neps-in/model-switcher-agent)
 
   > *Route every Claude Code task to the minimum-cost model — identical output, up to 80% lower cost.*
 
