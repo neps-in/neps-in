@@ -47,7 +47,7 @@ I'm **Napoleon** — a versatile Python/Django developer who thrives at the inte
 
 An intelligent AI model orchestration system that dynamically switches between OpenAI/Codex models or Anthropic models in Claude code based on task complexity, reasoning depth, latency requirements, and token budget.
 
-`AI Cost Optimization` · `Anthropic` · `Claude API` · `Claude Code` - `Developer Productivity` - `LLM Engineering`
+`AI Cost Optimization` · `Anthropic` · `Claude API` · `Claude Code` · `Developer Productivity` · `LLM Engineering`
 
 </td> 
 <td width="50%" valign="top">
@@ -60,6 +60,9 @@ A toolkit that makes system cleanup safe, auditable, and repeatable. Because `rm
 `Python` · `CLI` · `DevOps` · `Automation`
 
 </td>
+
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗂️ [awesome-snippies](https://github.com/neps-in/awesome-snippies)
@@ -68,28 +71,6 @@ A toolkit that makes system cleanup safe, auditable, and repeatable. Because `rm
 A battle-tested collection of reusable Python snippets covering everything from file handling to API calls. Stop Googling the same patterns — it's all here.
 
 `Python` · `Snippets` · `Productivity`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [awesome-tech](https://github.com/neps-in/awesome-tech)
-> *The bookmark list you always meant to curate but never did.*
-
-A curated mega-list of programming and design resources — tools, articles, frameworks, and references for developers and designers who refuse to stop learning.
-
-`Shell` · `Resources` · `Curated`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧹 [safe-cleanup-toolkit](https://github.com/neps-in/safe-cleanup-toolkit)
-> *Delete files without the existential dread.*
-
-A toolkit that makes system cleanup safe, auditable, and repeatable. Because `rm -rf` should never be your first instinct.
-
-`Python` · `CLI` · `DevOps` · `Automation`
 
 </td>
 <td width="50%" valign="top">
