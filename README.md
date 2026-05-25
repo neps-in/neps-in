@@ -63,6 +63,17 @@ A toolkit that makes system cleanup safe, auditable, and repeatable. Because `rm
 </td>
 
 </tr>
+<tr>
+ <td width="100%" valign="top" colspan="2">
+  
+### [model-switcher-agent](https://github.com/neps-in/model-switcher-agent)
+> *Paste any CSS snippet and instantly visualize every color value it contains. Colors are grouped by selector, inline property, or bare value — each shown as a labelled swatch card.*
+
+Paste any CSS snippet and instantly visualize every color value it contains. Colors are grouped by selector, inline property, or bare value — each shown as a labelled swatch card.
+
+`Claude Code` · `Anthropic` · `AI Cost Optimisation` · `AGENT.md`
+ </td>
+</tr>
 </table>
 
 ---
