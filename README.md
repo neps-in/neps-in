@@ -67,7 +67,6 @@ A toolkit that makes system cleanup safe, auditable, and repeatable. Because `rm
  <td width="100%" valign="top" colspan="2">
   
 ### [Color code Visualiser](https://github.com/neps-in/cool-pro)
-> *Paste any CSS snippet and instantly visualize every color value it contains. Colors are grouped by selector, inline property, or bare value — each shown as a labelled swatch card.*
 
 Paste any CSS snippet and instantly visualize every color value it contains. Colors are grouped by selector, inline property, or bare value — each shown as a labelled swatch card.
 
